@@ -8,7 +8,7 @@ Coursera Ejercicio III
 <body>  
 <h1>Lista numeral</h1>
   <ol> 
-  <li> Agua</li>
+
   <li>Pan</li>
   <li>Tomate</li>
   <li>Sal</li>
