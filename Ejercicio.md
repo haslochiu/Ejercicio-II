@@ -2,9 +2,9 @@
 Coursera Ejercicio IV
 <html>
   <head>
-    <title> Lista numeral de ingredientes </title>
+    <link> hasliejercicio.com</link>
   </head>
-  <link> </link>
+  
   <body>
     <h1>Lista numeral</h1>
     <p>Esta es una lista en base de ingredientes y preparacion de ingredientes</p>
