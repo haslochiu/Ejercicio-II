@@ -6,13 +6,13 @@ Coursera Ejercicio III
   </head>
   <body>
     <h1>Lista numeral</h1>
-    <ol>
+    <ul>
       <li>Pan</li>
       <li>Tomate</li>
       <li>Sal</li>
       <li>Cebolla</li>
       <li>Ajo</li>
-    </ol>
+    </ul>
   </body>
 </html>
 
