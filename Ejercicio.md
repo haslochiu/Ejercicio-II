@@ -2,14 +2,19 @@
 Coursera Ejercicio IV
 <html>
   <head>
-    <link> hasliejercicio.com</link>
+  <link> "hasliejercicio.com" </link>
   </head>
   
   <body>
     <h1>Lista numeral</h1>
-    <p>Esta es una lista en base de ingredientes y preparacion de ingredientes</p>
+    <p>Esta es una lista de ingredientes y preparación de ingredientes</p>
     <h2>Lista de ingredientes</h2>
     <ol> 
+      <li>Pan</li>
+      <li>Huevos</li>
+      <li>Alberja</li>
+    </ol>
+    
     <li> Pan</li>
     <li> Huevos</li>
     <li> Alberja</li>
