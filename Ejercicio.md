@@ -14,6 +14,7 @@ Coursera Ejercicio IV
       <li>Huevos</li>
       <li>Alberja</li>
     </ol>
+    <h2>Lista de ingredientes 2</h2>
     <li> Pan</li>
     <li> Huevos</li>
     <li> Alberja</li>
@@ -21,12 +22,12 @@ Coursera Ejercicio IV
     <h2> Lista de Ingredientes 2</h2>
     <dl> 
     <dt> Lista de desayuno</dt>
-      <dd>Pan con ajo</dd>
+    <dd>Pan con ajo</dd>
     <dt>Lista de almuerzo</dt>
-      <dd>Tomate con cebolla y sal</dd>
+    <dd>Tomate con cebolla y sal</dd>
     <dt>Lista de cena</dt>
-      <dd>Ajo con cebolla y pan</dd>
-      </dl>
+    <dd>Ajo con cebolla y pan</dd>
+    </dl>
       
   </body>
 </html>
