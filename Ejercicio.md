@@ -1,11 +1,12 @@
 # Ejercicio-III
 Coursera Ejercicio III
 <html>
-   </head>
- 
-  <body>
+ <head>
+  
    <tittle>Lista numeral de ingredientes</tittle>
-  <h1>Lista numeral</h1>
+</head>
+<body>  
+<h1>Lista numeral</h1>
   <ol> 
   <li> Agua</li>
   <li>Pan</li>
@@ -15,8 +16,5 @@ Coursera Ejercicio III
   <li>Ajo</li>
   
   </ol>
- 
- 
   </body>
 </html>
-
