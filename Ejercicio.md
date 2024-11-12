@@ -2,7 +2,7 @@
 Coursera Ejercicio III
 <html>
   <head>
-    <title>Lista numeral de ingredientes</title>
+    <title> Lista numeral de ingredientes </title>
   </head>
   <body>
     <h1>Lista numeral</h1>
